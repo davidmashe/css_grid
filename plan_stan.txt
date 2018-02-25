@@ -1,0 +1,5 @@
+one: show application od display grid & grid template selectors
+
+two: show justify & align selectors, demonstrate grid-column & grid-row selectors
+
+reponsive: show it all in action
