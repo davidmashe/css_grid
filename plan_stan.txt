@@ -1,5 +1,9 @@
-one: show application od display grid & grid template selectors
+one: show application of display grid & grid template selectors
 
 two: show justify & align selectors, demonstrate grid-column & grid-row selectors
 
 reponsive: show it all in action
+
+REFERENCE: 
+
+https://css-tricks.com/snippets/css/complete-guide-grid/
