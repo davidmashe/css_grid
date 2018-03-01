@@ -1,9 +1,18 @@
 .box {
 	display: grid;
 	grid-template-columns: 1fr 1fr;
-	grid-template-rows: repeat(5, 1fr);
+	grid-template-rows: repeat(6, 1fr);
 /*	grid-column-gap: 10px;
 	grid-row-gap: 10px;
 	justify-items: center;
 	align-items: center;*/
 }
+
+/*#nine {
+	grid-column: 1 / 3;
+	grid-row: 5 / 7;
+}
+
+#ten {
+	grid-column: 1 / 3;
+}*/
